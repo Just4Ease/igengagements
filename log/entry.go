@@ -5,8 +5,8 @@ import (
 	"runtime"
 	"strings"
 
-	"ig.engagements/libs/host"
 	"github.com/sirupsen/logrus"
+	"ig.engagements/libs/host"
 )
 
 type Entry interface {
